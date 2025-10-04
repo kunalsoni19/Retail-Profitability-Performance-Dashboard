@@ -26,10 +26,10 @@ Built entirely in **MS Excel**, it demonstrates how powerful insights can be cre
 ---
 
 ## Features / Highlights
-- ✅ Tracked KPIs such as **Total Sales, Profit, Profit Margin, and Order Processing Time**  
-- ✅ Found **most and least profitable sub-categories** → *Labels (42.97%)* and *Blinders (–19.96%)*  
-- ✅ Identified **Home Office** segment and **West Region** as top performers  
-- ✅ Enabled **actionable insights** for retail teams through **dynamic filters and storytelling visuals**  
+- Tracked KPIs such as **Total Sales, Profit, Profit Margin, and Order Processing Time**  
+- Found **most and least profitable sub-categories** → *Labels (42.97%)* and *Blinders (–19.96%)*  
+- Identified **Home Office** segment and **West Region** as top performers  
+- Enabled **actionable insights** for retail teams through **dynamic filters and storytelling visuals**  
 
 ---
 
