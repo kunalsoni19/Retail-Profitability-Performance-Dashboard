@@ -44,7 +44,7 @@ Built entirely in **MS Excel**, it demonstrates how powerful insights can be cre
 ## Dashboard Snapshot
 Here’s a preview of the Excel Dashboard:
 
-![Retail Profitability Dashboard](https://link-to-your-image-file.com)
+![Retail Profitability Dashboard](https://github.com/kunalsoni19/Retail-Profitability-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
